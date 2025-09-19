@@ -21,11 +21,11 @@ Este é um projeto de um sistema bancário simples desenvolvido em Python. A pri
 
 1.  Clone este repositório para o seu ambiente local:
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/yH4D3S/sistema-Banc-rio-simples-v1.git
     ```
 2.  Navegue até o diretório do projeto:
     ```bash
-    cd seu-repositorio
+    cd sistema-Banc-rio-simples-v1
     ```
 
 ### Execução
@@ -33,14 +33,14 @@ Este é um projeto de um sistema bancário simples desenvolvido em Python. A pri
 Para iniciar o sistema, execute o seguinte comando no seu terminal:
 
 ```bash
-python sistema_bancario.py
+python bank_system_v1.py
 ```
 
 Após a execução, um menu interativo será exibido no console, permitindo que você escolha a operação desejada.
 
 ## Estrutura do Código
 
-O projeto é composto por um único arquivo principal, `sistema_bancario.py`, que contém toda a lógica para o funcionamento do sistema. As variáveis principais incluem:
+O projeto é composto por um único arquivo principal, `bank_system_v1.py`, que contém toda a lógica para o funcionamento do sistema. As variáveis principais incluem:
 
   * `saldo`: Armazena o valor atual da conta.
   * `limite`: Define o valor máximo por saque.
