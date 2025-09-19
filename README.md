@@ -61,6 +61,6 @@ Contribuições são bem-vindas\! Se você tiver sugestões para melhorar este p
 
 ## Autor
 
-**Izaac "H4D3S Emanoel"**
+**Izaac "H4D3S" Emanoel**
 
   * **GitHub:** [yH4D3S](https://www.google.com/search?q=https://github.com/yH4D3S)
