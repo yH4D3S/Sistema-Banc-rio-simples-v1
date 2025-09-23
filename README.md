@@ -45,12 +45,12 @@ Este é um projeto de um sistema bancário simples desenvolvido em Python. A ter
 ### Instalação
 1. Clone este repositório para o seu ambiente local:
 ```bash
-git clone https://github.com/yH4D3S/sistema-Bancario-simples-3.git
+git clone https://github.com/yH4D3S/sistema-Bancario.git
 ```
 
 2. Navegue até o diretório do projeto:
 ```bash
-cd sistema-Bancario-simples-v2
+cd sistema-Bancario
 ```
 
 ### Execução
